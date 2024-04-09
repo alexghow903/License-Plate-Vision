@@ -1,0 +1,9 @@
+{
+    "Example": {
+        "Geolocation": {
+            "Latitude": 0.00,
+            "Longitude": 0.00
+        },
+        "Timestamp": "year-month-day timestamp"
+    }
+}
