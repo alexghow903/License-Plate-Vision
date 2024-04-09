@@ -1,0 +1,1 @@
+This doesn't work but it's essentailly a detector that can scan a license plate and look into it's database and tell if it's ever seen that plate number before, it will also be able to tell where and when.
